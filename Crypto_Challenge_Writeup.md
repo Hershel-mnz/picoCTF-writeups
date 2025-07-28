@@ -17,5 +17,7 @@ Repeating XOR can be broken by XORing the ciphertext with the key. The hint sugg
 
 ### Solution
 Decrypted text revealed the flag:
+```
 picoCTF{CRYPTO_IS_FUN}
+```
 

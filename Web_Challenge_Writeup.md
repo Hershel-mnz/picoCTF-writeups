@@ -17,4 +17,6 @@ The hint suggested checking the source code. Web challenges often hide data in H
 
 ### Solution
 The flag was hidden inside `script.js`:
+```
 picoCTF{tru3_d3t3ct1ve_0r_ju5t_inspect0r}
+```

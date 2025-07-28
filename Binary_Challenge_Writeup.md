@@ -17,5 +17,6 @@ Since I didn’t know the password, I tried looking inside the program itself. B
 
 ### Solution
 The program printed:
+```
 picoCTF{p4ssw0rd_cr4ck3d}
-
+```

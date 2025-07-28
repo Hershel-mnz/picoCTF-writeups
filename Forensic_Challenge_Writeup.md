@@ -19,5 +19,7 @@ The challenge name hints at "matryoshka dolls," which are nested layers. Likely 
 
 ### Solution
 The final file revealed:
+```
 picoCTF{f1l3_1n_4_f1l3}
+```
 
